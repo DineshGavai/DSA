@@ -3,11 +3,11 @@ class Solution:
         i=0
         d=len(s)
         res=[]
-        for j in range(d):
-            if s[j]=="I":
+        for j in s:
+            if j=="I":
                 res.append(i)
                 i+=1
-            elif s[j]=="D":
+            else :
                 res.append(d)
                 d-=1
         res.append(i)
