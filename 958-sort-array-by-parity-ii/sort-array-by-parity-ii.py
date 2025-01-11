@@ -11,8 +11,8 @@ class Solution:
                 odd.append(i)
         
         for i in range(len(even)):
-            res.append(even.pop())
-            res.append(odd.pop())
+            res.append(even[i])
+            res.append(odd[i])
 
         return res
             
