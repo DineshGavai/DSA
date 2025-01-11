@@ -10,10 +10,9 @@ class Solution:
             else:
                 odd.append(i)
         
-        for i in range(n):
-            if i%2==0:
-                res.append(even.pop())
-            else:
-                res.append(odd.pop())
+        for i in range(len(even)):
+            res.append(even.pop())
+            res.append(odd.pop())
+
         return res
             
