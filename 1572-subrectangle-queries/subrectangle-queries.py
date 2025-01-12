@@ -1,12 +1,8 @@
 class SubrectangleQueries:
 
     def __init__(self, rectangle: List[List[int]]):
-        self.mat=[]
-        for i in range(len(rectangle)):
-            row=[]
-            for j in range(len(rectangle[i])):
-                row.append(rectangle[i][j])
-            self.mat.append(row)
+        self.mat=rectangle
+        
 
 
     def updateSubrectangle(self, row1: int, col1: int, row2: int, col2: int, newValue: int) -> None:
