@@ -11,7 +11,10 @@
 </head>
 <body>
     <h1>DSA Repository Code Viewer</h1>
-    <select id="file-selector">
+    <select id="folder-selector">
+        <option value="">Select a question</option>
+    </select>
+    <select id="file-selector" disabled>
         <option value="">Select a file</option>
     </select>
     <pre id="code-display">Select a file to view its content.</pre>
@@ -20,14 +23,38 @@
         const repo = "DineshGavai/DSA"; // Your GitHub repository
         const branch = "main"; // Change if needed
 
-        async function fetchRepoFiles() {
+        async function fetchRepoFolders() {
             const apiUrl = `https://api.github.com/repos/${repo}/contents/`;
             const response = await fetch(apiUrl);
             const files = await response.json();
-            const fileSelector = document.getElementById("file-selector");
+            const folderSelector = document.getElementById("folder-selector");
 
             files.forEach(file => {
-                if (file.type === "file") {
+                if (file.type === "dir") { // Only list folders
+                    let option = document.createElement("option");
+                    option.value = file.path;
+                    option.textContent = file.name;
+                    folderSelector.appendChild(option);
+                }
+            });
+
+            folderSelector.addEventListener("change", function() {
+                if (this.value) {
+                    fetchFolderFiles(this.value);
+                    document.getElementById("file-selector").disabled = false;
+                }
+            });
+        }
+
+        async function fetchFolderFiles(folderPath) {
+            const apiUrl = `https://api.github.com/repos/${repo}/contents/${folderPath}`;
+            const response = await fetch(apiUrl);
+            const files = await response.json();
+            const fileSelector = document.getElementById("file-selector");
+            fileSelector.innerHTML = '<option value="">Select a file</option>'; // Reset file options
+
+            files.forEach(file => {
+                if (file.type === "file") { // Only list files inside the folder
                     let option = document.createElement("option");
                     option.value = file.path;
                     option.textContent = file.name;
@@ -49,7 +76,7 @@
             document.getElementById("code-display").textContent = code;
         }
 
-        fetchRepoFiles();
+        fetchRepoFolders();
     </script>
 </body>
 </html>
