@@ -1,9 +1,7 @@
 class Solution:
     def maxFrequencyElements(self, nums: List[int]) -> int:
         freq=Counter(nums)
-        max_freq=0
-        for idx,val in freq.items():
-            max_freq=max(max_freq,val)
+        max_freq=max(freq.values())
         res=0
         for idx,val in freq.items():
             if val==max_freq:
