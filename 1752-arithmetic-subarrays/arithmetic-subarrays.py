@@ -9,5 +9,6 @@ class Solution:
                 if temp[j+1]-temp[j]!=diff:
                     res[i]=False
                     break
-                
+                else:
+                    res[i]=True
         return res
