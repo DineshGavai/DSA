@@ -5,12 +5,12 @@ class Solution:
         count = Counter(digits)
         res = set()
 
-        for i in range(1, 10):  # hundreds place, can't be 0
+        for i in range(1, 10):  
             if count[i] == 0:
                 continue
             count[i] -= 1
 
-            for j in range(0, 10):  # tens place
+            for j in range(0, 10):  
                 if count[j] == 0:
                     continue
                 count[j] -= 1
@@ -20,8 +20,8 @@ class Solution:
                         continue
                     res.add(i * 100 + j * 10 + k)
 
-                count[j] += 1  # restore j
+                count[j] += 1  
 
-            count[i] += 1  # restore i
+            count[i] += 1  
 
         return sorted(res)
