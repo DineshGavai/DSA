@@ -7,12 +7,12 @@ class Solution:
             l[idx] = i
 
         i = 0
+        start=0
+        end=0
         while i < len(s):
-            end = l[ord(s[i])-ord('a')]
-            j = i
-            while j < end:
-                end = max(end, l[ord(s[j])-ord('a')])
-                j += 1
-            res.append(j-i+1)
-            i=j+1
+            end=max(end,l[ord(s[i])-ord('a')])
+            if i == end:
+                res.append(end-start+1)
+                start=end+1
+            i+=1
         return res
