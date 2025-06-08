@@ -5,7 +5,7 @@ class Solution:
             arr.append(str(i))
         
         arr.sort()
-        res=[]
-        for i in arr:
-            res.append(int(i))
-        return res
+        
+        for i in range(n):
+            arr[i]=int(arr[i])
+        return arr
