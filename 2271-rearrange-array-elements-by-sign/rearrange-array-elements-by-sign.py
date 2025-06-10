@@ -8,8 +8,7 @@ class Solution:
             else:
                 pos.append(i)
 
-        res=[]
         for i in range(len(pos)):
-            res.append(pos[i])
-            res.append(neg[i])
-        return res
+            nums[2*i]=pos[i]
+            nums[2*i+1]=neg[i]
+        return nums
