@@ -14,8 +14,6 @@ class Solution:
                 to_min=i
         max_val=''
         min_val=''
-        print(to_max)
-        print(to_min)
         to_change='1'
         if to_min != nums[0]:
             to_change='0'
@@ -29,6 +27,4 @@ class Solution:
                 min_val+=to_change
             else:
                 min_val+=i
-        print(max_val)
-        print(min_val)
         return int(max_val) - int(min_val)
