@@ -18,7 +18,6 @@ class Solution:
         second=head.next
         i=1
         while i < n:
-            print(second.val)
             first=first.next
             second=second.next
             i+=1
