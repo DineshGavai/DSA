@@ -7,7 +7,7 @@ class Solution:
         while j < n:
             if nums[j]==0:
                 zeros+=1
-            while  zeros > k:
+            if  zeros > k:
                 if nums[i]==0:
                     zeros-=1
                 i+=1
