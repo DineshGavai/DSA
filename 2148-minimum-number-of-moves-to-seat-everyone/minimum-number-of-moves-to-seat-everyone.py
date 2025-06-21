@@ -5,6 +5,5 @@ class Solution:
         n=len(seats)
         res=0
         for i in range(n):
-            if seats[i]!=students[i]:
                 res+=abs(seats[i]-students[i])
         return res
