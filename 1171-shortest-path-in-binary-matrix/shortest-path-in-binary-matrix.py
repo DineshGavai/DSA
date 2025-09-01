@@ -7,7 +7,6 @@ class Solution:
             return -1
         distance=[[-1 for _ in range(col)]for _ in range(row)]
         pq=deque()
-        # distance[row-1][col-1]==-1
         pq.append((1,0,0))
         distance[0][0]=1
         locations=[(-1,0),(0,-1),(1,0),(0,1),(-1,-1),(-1,1),(1,-1),(1,1)]
