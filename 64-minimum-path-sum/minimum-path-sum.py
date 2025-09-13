@@ -10,9 +10,11 @@ class Solution:
                 return float('inf')
             if i==0 and j==0:
                 return grid[i][j]
-            down=func(i-1,j)
-            right=func(i,j-1)
+            up=func(i-1,j)
+            left=func(i,j-1)
             
-            dp[i][j]=grid[i][j]+min(down,right)
+            dp[i][j]=grid[i][j]+min(up,left)
             return dp[i][j]
         return func(m-1,n-1)
+
+        
