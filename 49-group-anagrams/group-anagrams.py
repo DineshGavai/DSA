@@ -1,15 +1,21 @@
-from collections import Counter 
+from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashmap={}
+        hashmap=defaultdict(list)
         for i in strs:
             sorted_string="".join(sorted(i))
-            if sorted_string in hashmap:
-                hashmap[sorted_string].append(i)
-            else:
-                hashmap[sorted_string]=[i]
-                
-        res=[]
-        for i in hashmap.values():
-            res.append(i)
-        return res
+            hashmap[sorted_string].append(i)
+        return list(hashmap.values())
+
+
+
+
+
+
+
+
+
+
+
+
+      
