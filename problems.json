@@ -1,0 +1,2648 @@
+[
+  {
+    "id": 1,
+    "slug": "1-two-sum",
+    "name": "Two Sum",
+    "difficulty": "Easy",
+    "solutionFile": "two-sum.py"
+  },
+  {
+    "id": 2,
+    "slug": "2-add-two-numbers",
+    "name": "Add Two Numbers",
+    "difficulty": "Medium",
+    "solutionFile": "add-two-numbers.py"
+  },
+  {
+    "id": 3,
+    "slug": "3-longest-substring-without-repeating-characters",
+    "name": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "solutionFile": "longest-substring-without-repeating-characters.py"
+  },
+  {
+    "id": 5,
+    "slug": "5-longest-palindromic-substring",
+    "name": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "solutionFile": "longest-palindromic-substring.py"
+  },
+  {
+    "id": 7,
+    "slug": "7-reverse-integer",
+    "name": "Reverse Integer",
+    "difficulty": "Medium",
+    "solutionFile": "reverse-integer.py"
+  },
+  {
+    "id": 15,
+    "slug": "15-3sum",
+    "name": "3sum",
+    "difficulty": "Medium",
+    "solutionFile": "3sum.py"
+  },
+  {
+    "id": 17,
+    "slug": "17-letter-combinations-of-a-phone-number",
+    "name": "Letter Combinations Of A Phone Number",
+    "difficulty": "Medium",
+    "solutionFile": "letter-combinations-of-a-phone-number.py"
+  },
+  {
+    "id": 19,
+    "slug": "19-remove-nth-node-from-end-of-list",
+    "name": "Remove Nth Node From End Of List",
+    "difficulty": "Medium",
+    "solutionFile": "remove-nth-node-from-end-of-list.py"
+  },
+  {
+    "id": 20,
+    "slug": "20-valid-parentheses",
+    "name": "Valid Parentheses",
+    "difficulty": "Easy",
+    "solutionFile": "valid-parentheses.py"
+  },
+  {
+    "id": 21,
+    "slug": "21-merge-two-sorted-lists",
+    "name": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "solutionFile": "merge-two-sorted-lists.py"
+  },
+  {
+    "id": 22,
+    "slug": "22-generate-parentheses",
+    "name": "Generate Parentheses",
+    "difficulty": "Medium",
+    "solutionFile": "generate-parentheses.py"
+  },
+  {
+    "id": 26,
+    "slug": "26-remove-duplicates-from-sorted-array",
+    "name": "Remove Duplicates From Sorted Array",
+    "difficulty": "Easy",
+    "solutionFile": "remove-duplicates-from-sorted-array.py"
+  },
+  {
+    "id": 31,
+    "slug": "31-next-permutation",
+    "name": "Next Permutation",
+    "difficulty": "Medium",
+    "solutionFile": "next-permutation.py"
+  },
+  {
+    "id": 33,
+    "slug": "33-search-in-rotated-sorted-array",
+    "name": "Search In Rotated Sorted Array",
+    "difficulty": "Medium",
+    "solutionFile": "search-in-rotated-sorted-array.py"
+  },
+  {
+    "id": 34,
+    "slug": "34-find-first-and-last-position-of-element-in-sorted-array",
+    "name": "Find First And Last Position Of Element In Sorted Array",
+    "difficulty": "Medium",
+    "solutionFile": "find-first-and-last-position-of-element-in-sorted-array.py"
+  },
+  {
+    "id": 35,
+    "slug": "35-search-insert-position",
+    "name": "Search Insert Position",
+    "difficulty": "Easy",
+    "solutionFile": "search-insert-position.py"
+  },
+  {
+    "id": 39,
+    "slug": "39-combination-sum",
+    "name": "Combination Sum",
+    "difficulty": "Medium",
+    "solutionFile": "combination-sum.py"
+  },
+  {
+    "id": 40,
+    "slug": "40-combination-sum-ii",
+    "name": "Combination Sum Ii",
+    "difficulty": "Medium",
+    "solutionFile": "combination-sum-ii.py"
+  },
+  {
+    "id": 45,
+    "slug": "45-jump-game-ii",
+    "name": "Jump Game Ii",
+    "difficulty": "Medium",
+    "solutionFile": "jump-game-ii.py"
+  },
+  {
+    "id": 46,
+    "slug": "46-permutations",
+    "name": "Permutations",
+    "difficulty": "Medium",
+    "solutionFile": "permutations.py"
+  },
+  {
+    "id": 48,
+    "slug": "48-rotate-image",
+    "name": "Rotate Image",
+    "difficulty": "Medium",
+    "solutionFile": "rotate-image.py"
+  },
+  {
+    "id": 49,
+    "slug": "49-group-anagrams",
+    "name": "Group Anagrams",
+    "difficulty": "Medium",
+    "solutionFile": "group-anagrams.py"
+  },
+  {
+    "id": 50,
+    "slug": "50-powx-n",
+    "name": "Powx N",
+    "difficulty": "Medium",
+    "solutionFile": "powx-n.py"
+  },
+  {
+    "id": 53,
+    "slug": "53-maximum-subarray",
+    "name": "Maximum Subarray",
+    "difficulty": "Medium",
+    "solutionFile": "maximum-subarray.py"
+  },
+  {
+    "id": 54,
+    "slug": "54-spiral-matrix",
+    "name": "Spiral Matrix",
+    "difficulty": "Medium",
+    "solutionFile": "spiral-matrix.py"
+  },
+  {
+    "id": 55,
+    "slug": "55-jump-game",
+    "name": "Jump Game",
+    "difficulty": "Medium",
+    "solutionFile": "jump-game.py"
+  },
+  {
+    "id": 56,
+    "slug": "56-merge-intervals",
+    "name": "Merge Intervals",
+    "difficulty": "Medium",
+    "solutionFile": "merge-intervals.py"
+  },
+  {
+    "id": 62,
+    "slug": "62-unique-paths",
+    "name": "Unique Paths",
+    "difficulty": "Medium",
+    "solutionFile": "unique-paths.py"
+  },
+  {
+    "id": 64,
+    "slug": "64-minimum-path-sum",
+    "name": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "solutionFile": "minimum-path-sum.py"
+  },
+  {
+    "id": 66,
+    "slug": "66-plus-one",
+    "name": "Plus One",
+    "difficulty": "Easy",
+    "solutionFile": "plus-one.py"
+  },
+  {
+    "id": 69,
+    "slug": "69-sqrtx",
+    "name": "Sqrtx",
+    "difficulty": "Easy",
+    "solutionFile": "sqrtx.py"
+  },
+  {
+    "id": 70,
+    "slug": "70-climbing-stairs",
+    "name": "Climbing Stairs",
+    "difficulty": "Easy",
+    "solutionFile": "climbing-stairs.py"
+  },
+  {
+    "id": 73,
+    "slug": "73-set-matrix-zeroes",
+    "name": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "solutionFile": "set-matrix-zeroes.py"
+  },
+  {
+    "id": 74,
+    "slug": "74-search-a-2d-matrix",
+    "name": "Search A 2d Matrix",
+    "difficulty": "Medium",
+    "solutionFile": "search-a-2d-matrix.py"
+  },
+  {
+    "id": 75,
+    "slug": "75-sort-colors",
+    "name": "Sort Colors",
+    "difficulty": "Medium",
+    "solutionFile": "sort-colors.py"
+  },
+  {
+    "id": 78,
+    "slug": "78-subsets",
+    "name": "Subsets",
+    "difficulty": "Medium",
+    "solutionFile": "subsets.py"
+  },
+  {
+    "id": 81,
+    "slug": "81-search-in-rotated-sorted-array-ii",
+    "name": "Search In Rotated Sorted Array Ii",
+    "difficulty": "Medium",
+    "solutionFile": "search-in-rotated-sorted-array-ii.py"
+  },
+  {
+    "id": 88,
+    "slug": "88-merge-sorted-array",
+    "name": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 90,
+    "slug": "90-subsets-ii",
+    "name": "Subsets Ii",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 94,
+    "slug": "94-binary-tree-inorder-traversal",
+    "name": "Binary Tree Inorder Traversal",
+    "difficulty": "Easy",
+    "solutionFile": "binary-tree-inorder-traversal.py"
+  },
+  {
+    "id": 98,
+    "slug": "98-validate-binary-search-tree",
+    "name": "Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "solutionFile": "validate-binary-search-tree.py"
+  },
+  {
+    "id": 101,
+    "slug": "101-symmetric-tree",
+    "name": "Symmetric Tree",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 104,
+    "slug": "104-maximum-depth-of-binary-tree",
+    "name": "Maximum Depth Of Binary Tree",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-depth-of-binary-tree.py"
+  },
+  {
+    "id": 120,
+    "slug": "120-triangle",
+    "name": "Triangle",
+    "difficulty": "Medium",
+    "solutionFile": "triangle.py"
+  },
+  {
+    "id": 121,
+    "slug": "121-best-time-to-buy-and-sell-stock",
+    "name": "Best Time To Buy And Sell Stock",
+    "difficulty": "Easy",
+    "solutionFile": "best-time-to-buy-and-sell-stock.py"
+  },
+  {
+    "id": 124,
+    "slug": "124-binary-tree-maximum-path-sum",
+    "name": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "solutionFile": "binary-tree-maximum-path-sum.py"
+  },
+  {
+    "id": 125,
+    "slug": "125-valid-palindrome",
+    "name": "Valid Palindrome",
+    "difficulty": "Easy",
+    "solutionFile": "valid-palindrome.py"
+  },
+  {
+    "id": 128,
+    "slug": "128-longest-consecutive-sequence",
+    "name": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "solutionFile": "longest-consecutive-sequence.py"
+  },
+  {
+    "id": 130,
+    "slug": "130-surrounded-regions",
+    "name": "Surrounded Regions",
+    "difficulty": "Medium",
+    "solutionFile": "surrounded-regions.py"
+  },
+  {
+    "id": 136,
+    "slug": "136-single-number",
+    "name": "Single Number",
+    "difficulty": "Easy",
+    "solutionFile": "single-number.py"
+  },
+  {
+    "id": 141,
+    "slug": "141-linked-list-cycle",
+    "name": "Linked List Cycle",
+    "difficulty": "Easy",
+    "solutionFile": "linked-list-cycle.py"
+  },
+  {
+    "id": 142,
+    "slug": "142-linked-list-cycle-ii",
+    "name": "Linked List Cycle Ii",
+    "difficulty": "Medium",
+    "solutionFile": "linked-list-cycle-ii.py"
+  },
+  {
+    "id": 145,
+    "slug": "145-binary-tree-postorder-traversal",
+    "name": "Binary Tree Postorder Traversal",
+    "difficulty": "Easy",
+    "solutionFile": "binary-tree-postorder-traversal.py"
+  },
+  {
+    "id": 151,
+    "slug": "151-reverse-words-in-a-string",
+    "name": "Reverse Words In A String",
+    "difficulty": "Medium",
+    "solutionFile": "reverse-words-in-a-string.py"
+  },
+  {
+    "id": 152,
+    "slug": "152-maximum-product-subarray",
+    "name": "Maximum Product Subarray",
+    "difficulty": "Medium",
+    "solutionFile": "maximum-product-subarray.py"
+  },
+  {
+    "id": 153,
+    "slug": "153-find-minimum-in-rotated-sorted-array",
+    "name": "Find Minimum In Rotated Sorted Array",
+    "difficulty": "Medium",
+    "solutionFile": "find-minimum-in-rotated-sorted-array.py"
+  },
+  {
+    "id": 155,
+    "slug": "155-min-stack",
+    "name": "Min Stack",
+    "difficulty": "Medium",
+    "solutionFile": "min-stack.py"
+  },
+  {
+    "id": 167,
+    "slug": "167-two-sum-ii-input-array-is-sorted",
+    "name": "Two Sum Ii Input Array Is Sorted",
+    "difficulty": "Medium",
+    "solutionFile": "two-sum-ii-input-array-is-sorted.py"
+  },
+  {
+    "id": 169,
+    "slug": "169-majority-element",
+    "name": "Majority Element",
+    "difficulty": "Easy",
+    "solutionFile": "majority-element.py"
+  },
+  {
+    "id": 175,
+    "slug": "175-combine-two-tables",
+    "name": "Combine Two Tables",
+    "difficulty": "Easy",
+    "solutionFile": "combine-two-tables.sql"
+  },
+  {
+    "id": 181,
+    "slug": "181-employees-earning-more-than-their-managers",
+    "name": "Employees Earning More Than Their Managers",
+    "difficulty": "Easy",
+    "solutionFile": "employees-earning-more-than-their-managers.sql"
+  },
+  {
+    "id": 182,
+    "slug": "182-duplicate-emails",
+    "name": "Duplicate Emails",
+    "difficulty": "Easy",
+    "solutionFile": "duplicate-emails.sql"
+  },
+  {
+    "id": 183,
+    "slug": "183-customers-who-never-order",
+    "name": "Customers Who Never Order",
+    "difficulty": "Easy",
+    "solutionFile": "customers-who-never-order.sql"
+  },
+  {
+    "id": 196,
+    "slug": "196-delete-duplicate-emails",
+    "name": "Delete Duplicate Emails",
+    "difficulty": "Easy",
+    "solutionFile": "delete-duplicate-emails.sql"
+  },
+  {
+    "id": 197,
+    "slug": "197-rising-temperature",
+    "name": "Rising Temperature",
+    "difficulty": "Easy",
+    "solutionFile": "rising-temperature.sql"
+  },
+  {
+    "id": 198,
+    "slug": "198-house-robber",
+    "name": "House Robber",
+    "difficulty": "Medium",
+    "solutionFile": "house-robber.py"
+  },
+  {
+    "id": 200,
+    "slug": "200-number-of-islands",
+    "name": "Number Of Islands",
+    "difficulty": "Medium",
+    "solutionFile": "number-of-islands.py"
+  },
+  {
+    "id": 202,
+    "slug": "202-happy-number",
+    "name": "Happy Number",
+    "difficulty": "Easy",
+    "solutionFile": "happy-number.py"
+  },
+  {
+    "id": 203,
+    "slug": "203-remove-linked-list-elements",
+    "name": "Remove Linked List Elements",
+    "difficulty": "Easy",
+    "solutionFile": "remove-linked-list-elements.py"
+  },
+  {
+    "id": 216,
+    "slug": "216-combination-sum-iii",
+    "name": "Combination Sum Iii",
+    "difficulty": "Medium",
+    "solutionFile": "combination-sum-iii.py"
+  },
+  {
+    "id": 217,
+    "slug": "217-contains-duplicate",
+    "name": "Contains Duplicate",
+    "difficulty": "Easy",
+    "solutionFile": "contains-duplicate.py"
+  },
+  {
+    "id": 222,
+    "slug": "222-count-complete-tree-nodes",
+    "name": "Count Complete Tree Nodes",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 226,
+    "slug": "226-invert-binary-tree",
+    "name": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "solutionFile": "invert-binary-tree.py"
+  },
+  {
+    "id": 230,
+    "slug": "230-kth-smallest-element-in-a-bst",
+    "name": "Kth Smallest Element In A Bst",
+    "difficulty": "Medium",
+    "solutionFile": "kth-smallest-element-in-a-bst.py"
+  },
+  {
+    "id": 234,
+    "slug": "234-palindrome-linked-list",
+    "name": "Palindrome Linked List",
+    "difficulty": "Easy",
+    "solutionFile": "palindrome-linked-list.py"
+  },
+  {
+    "id": 236,
+    "slug": "236-lowest-common-ancestor-of-a-binary-tree",
+    "name": "Lowest Common Ancestor Of A Binary Tree",
+    "difficulty": "Medium",
+    "solutionFile": "lowest-common-ancestor-of-a-binary-tree.py"
+  },
+  {
+    "id": 237,
+    "slug": "237-delete-node-in-a-linked-list",
+    "name": "Delete Node In A Linked List",
+    "difficulty": "Medium",
+    "solutionFile": "delete-node-in-a-linked-list.py"
+  },
+  {
+    "id": 238,
+    "slug": "238-product-of-array-except-self",
+    "name": "Product Of Array Except Self",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 242,
+    "slug": "242-valid-anagram",
+    "name": "Valid Anagram",
+    "difficulty": "Easy",
+    "solutionFile": "valid-anagram.py"
+  },
+  {
+    "id": 303,
+    "slug": "303-range-sum-query-immutable",
+    "name": "Range Sum Query Immutable",
+    "difficulty": "Easy",
+    "solutionFile": "range-sum-query-immutable.py"
+  },
+  {
+    "id": 328,
+    "slug": "328-odd-even-linked-list",
+    "name": "Odd Even Linked List",
+    "difficulty": "Medium",
+    "solutionFile": "odd-even-linked-list.py"
+  },
+  {
+    "id": 342,
+    "slug": "342-power-of-four",
+    "name": "Power Of Four",
+    "difficulty": "Easy",
+    "solutionFile": "power-of-four.py"
+  },
+  {
+    "id": 377,
+    "slug": "377-combination-sum-iv",
+    "name": "Combination Sum Iv",
+    "difficulty": "Medium",
+    "solutionFile": "combination-sum-iv.py"
+  },
+  {
+    "id": 386,
+    "slug": "386-lexicographical-numbers",
+    "name": "Lexicographical Numbers",
+    "difficulty": "Medium",
+    "solutionFile": "lexicographical-numbers.py"
+  },
+  {
+    "id": 404,
+    "slug": "404-sum-of-left-leaves",
+    "name": "Sum Of Left Leaves",
+    "difficulty": "Easy",
+    "solutionFile": "sum-of-left-leaves.py"
+  },
+  {
+    "id": 407,
+    "slug": "407-trapping-rain-water-ii",
+    "name": "Trapping Rain Water Ii",
+    "difficulty": "Hard",
+    "solutionFile": "trapping-rain-water-ii.py"
+  },
+  {
+    "id": 416,
+    "slug": "416-partition-equal-subset-sum",
+    "name": "Partition Equal Subset Sum",
+    "difficulty": "Medium",
+    "solutionFile": "partition-equal-subset-sum.py"
+  },
+  {
+    "id": 442,
+    "slug": "442-find-all-duplicates-in-an-array",
+    "name": "Find All Duplicates In An Array",
+    "difficulty": "Medium",
+    "solutionFile": "find-all-duplicates-in-an-array.py"
+  },
+  {
+    "id": 455,
+    "slug": "455-assign-cookies",
+    "name": "Assign Cookies",
+    "difficulty": "Easy",
+    "solutionFile": "assign-cookies.py"
+  },
+  {
+    "id": 496,
+    "slug": "496-next-greater-element-i",
+    "name": "Next Greater Element I",
+    "difficulty": "Easy",
+    "solutionFile": "next-greater-element-i.py"
+  },
+  {
+    "id": 503,
+    "slug": "503-next-greater-element-ii",
+    "name": "Next Greater Element Ii",
+    "difficulty": "Medium",
+    "solutionFile": "next-greater-element-ii.py"
+  },
+  {
+    "id": 530,
+    "slug": "530-minimum-absolute-difference-in-bst",
+    "name": "Minimum Absolute Difference In Bst",
+    "difficulty": "Easy",
+    "solutionFile": "minimum-absolute-difference-in-bst.py"
+  },
+  {
+    "id": 535,
+    "slug": "535-encode-and-decode-tinyurl",
+    "name": "Encode And Decode Tinyurl",
+    "difficulty": "Medium",
+    "solutionFile": "encode-and-decode-tinyurl.py"
+  },
+  {
+    "id": 542,
+    "slug": "542-01-matrix",
+    "name": "01 Matrix",
+    "difficulty": "Medium",
+    "solutionFile": "01-matrix.py"
+  },
+  {
+    "id": 543,
+    "slug": "543-diameter-of-binary-tree",
+    "name": "Diameter Of Binary Tree",
+    "difficulty": "Easy",
+    "solutionFile": "diameter-of-binary-tree.py"
+  },
+  {
+    "id": 557,
+    "slug": "557-reverse-words-in-a-string-iii",
+    "name": "Reverse Words In A String Iii",
+    "difficulty": "Easy",
+    "solutionFile": "reverse-words-in-a-string-iii.py"
+  },
+  {
+    "id": 577,
+    "slug": "577-employee-bonus",
+    "name": "Employee Bonus",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 584,
+    "slug": "584-find-customer-referee",
+    "name": "Find Customer Referee",
+    "difficulty": "Easy",
+    "solutionFile": "find-customer-referee.sql"
+  },
+  {
+    "id": 594,
+    "slug": "594-longest-harmonious-subsequence",
+    "name": "Longest Harmonious Subsequence",
+    "difficulty": "Easy",
+    "solutionFile": "longest-harmonious-subsequence.py"
+  },
+  {
+    "id": 595,
+    "slug": "595-big-countries",
+    "name": "Big Countries",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 596,
+    "slug": "596-classes-with-at-least-5-students",
+    "name": "Classes With At Least 5 Students",
+    "difficulty": "Easy",
+    "solutionFile": "classes-with-at-least-5-students.sql"
+  },
+  {
+    "id": 607,
+    "slug": "607-sales-person",
+    "name": "Sales Person",
+    "difficulty": "Easy",
+    "solutionFile": "sales-person.sql"
+  },
+  {
+    "id": 617,
+    "slug": "617-merge-two-binary-trees",
+    "name": "Merge Two Binary Trees",
+    "difficulty": "Easy",
+    "solutionFile": "merge-two-binary-trees.py"
+  },
+  {
+    "id": 619,
+    "slug": "619-biggest-single-number",
+    "name": "Biggest Single Number",
+    "difficulty": "Easy",
+    "solutionFile": "biggest-single-number.sql"
+  },
+  {
+    "id": 637,
+    "slug": "637-average-of-levels-in-binary-tree",
+    "name": "Average Of Levels In Binary Tree",
+    "difficulty": "Easy",
+    "solutionFile": "average-of-levels-in-binary-tree.py"
+  },
+  {
+    "id": 653,
+    "slug": "653-two-sum-iv-input-is-a-bst",
+    "name": "Two Sum Iv Input Is A Bst",
+    "difficulty": "Easy",
+    "solutionFile": "two-sum-iv-input-is-a-bst.py"
+  },
+  {
+    "id": 654,
+    "slug": "654-maximum-binary-tree",
+    "name": "Maximum Binary Tree",
+    "difficulty": "Medium",
+    "solutionFile": "maximum-binary-tree.py"
+  },
+  {
+    "id": 682,
+    "slug": "682-baseball-game",
+    "name": "Baseball Game",
+    "difficulty": "Easy",
+    "solutionFile": "baseball-game.py"
+  },
+  {
+    "id": 733,
+    "slug": "733-flood-fill",
+    "name": "Flood Fill",
+    "difficulty": "Easy",
+    "solutionFile": "flood-fill.py"
+  },
+  {
+    "id": 742,
+    "slug": "742-to-lower-case",
+    "name": "To Lower Case",
+    "difficulty": "Easy",
+    "solutionFile": "to-lower-case.py"
+  },
+  {
+    "id": 745,
+    "slug": "745-find-smallest-letter-greater-than-target",
+    "name": "Find Smallest Letter Greater Than Target",
+    "difficulty": "Easy",
+    "solutionFile": "find-smallest-letter-greater-than-target.py"
+  },
+  {
+    "id": 768,
+    "slug": "768-partition-labels",
+    "name": "Partition Labels",
+    "difficulty": "Medium",
+    "solutionFile": "partition-labels.py"
+  },
+  {
+    "id": 774,
+    "slug": "774-maximum-depth-of-n-ary-tree",
+    "name": "Maximum Depth Of N Ary Tree",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-depth-of-n-ary-tree.py"
+  },
+  {
+    "id": 776,
+    "slug": "776-n-ary-tree-postorder-traversal",
+    "name": "N Ary Tree Postorder Traversal",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 783,
+    "slug": "783-search-in-a-binary-search-tree",
+    "name": "Search In A Binary Search Tree",
+    "difficulty": "Easy",
+    "solutionFile": "search-in-a-binary-search-tree.py"
+  },
+  {
+    "id": 784,
+    "slug": "784-insert-into-a-binary-search-tree",
+    "name": "Insert Into A Binary Search Tree",
+    "difficulty": "Medium",
+    "solutionFile": "insert-into-a-binary-search-tree.py"
+  },
+  {
+    "id": 789,
+    "slug": "789-kth-largest-element-in-a-stream",
+    "name": "Kth Largest Element In A Stream",
+    "difficulty": "Easy",
+    "solutionFile": "kth-largest-element-in-a-stream.py"
+  },
+  {
+    "id": 801,
+    "slug": "801-is-graph-bipartite",
+    "name": "Is Graph Bipartite",
+    "difficulty": "Medium",
+    "solutionFile": "is-graph-bipartite.py"
+  },
+  {
+    "id": 803,
+    "slug": "803-cheapest-flights-within-k-stops",
+    "name": "Cheapest Flights Within K Stops",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 822,
+    "slug": "822-unique-morse-code-words",
+    "name": "Unique Morse Code Words",
+    "difficulty": "Easy",
+    "solutionFile": "unique-morse-code-words.py"
+  },
+  {
+    "id": 854,
+    "slug": "854-making-a-large-island",
+    "name": "Making A Large Island",
+    "difficulty": "Hard",
+    "solutionFile": "making-a-large-island.py"
+  },
+  {
+    "id": 861,
+    "slug": "861-flipping-an-image",
+    "name": "Flipping An Image",
+    "difficulty": "Easy",
+    "solutionFile": "flipping-an-image.py"
+  },
+  {
+    "id": 904,
+    "slug": "904-leaf-similar-trees",
+    "name": "Leaf Similar Trees",
+    "difficulty": "Easy",
+    "solutionFile": "leaf-similar-trees.py"
+  },
+  {
+    "id": 905,
+    "slug": "905-length-of-longest-fibonacci-subsequence",
+    "name": "Length Of Longest Fibonacci Subsequence",
+    "difficulty": "Medium",
+    "solutionFile": "length-of-longest-fibonacci-subsequence.py"
+  },
+  {
+    "id": 908,
+    "slug": "908-middle-of-the-linked-list",
+    "name": "Middle Of The Linked List",
+    "difficulty": "Easy",
+    "solutionFile": "middle-of-the-linked-list.py"
+  },
+  {
+    "id": 917,
+    "slug": "917-boats-to-save-people",
+    "name": "Boats To Save People",
+    "difficulty": "Medium",
+    "solutionFile": "boats-to-save-people.py"
+  },
+  {
+    "id": 925,
+    "slug": "925-construct-binary-tree-from-preorder-and-postorder-traversal",
+    "name": "Construct Binary Tree From Preorder And Postorder Traversal",
+    "difficulty": "Medium",
+    "solutionFile": "construct-binary-tree-from-preorder-and-postorder-traversal.py"
+  },
+  {
+    "id": 926,
+    "slug": "926-find-and-replace-pattern",
+    "name": "Find And Replace Pattern",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 933,
+    "slug": "933-increasing-order-search-tree",
+    "name": "Increasing Order Search Tree",
+    "difficulty": "Easy",
+    "solutionFile": "increasing-order-search-tree.py"
+  },
+  {
+    "id": 952,
+    "slug": "952-word-subsets",
+    "name": "Word Subsets",
+    "difficulty": "Medium",
+    "solutionFile": "word-subsets.py"
+  },
+  {
+    "id": 958,
+    "slug": "958-sort-array-by-parity-ii",
+    "name": "Sort Array By Parity Ii",
+    "difficulty": "Easy",
+    "solutionFile": "sort-array-by-parity-ii.py"
+  },
+  {
+    "id": 967,
+    "slug": "967-minimum-falling-path-sum",
+    "name": "Minimum Falling Path Sum",
+    "difficulty": "Medium",
+    "solutionFile": "minimum-falling-path-sum.py"
+  },
+  {
+    "id": 975,
+    "slug": "975-range-sum-of-bst",
+    "name": "Range Sum Of Bst",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 979,
+    "slug": "979-di-string-match",
+    "name": "Di String Match",
+    "difficulty": "Easy",
+    "solutionFile": "di-string-match.py"
+  },
+  {
+    "id": 981,
+    "slug": "981-delete-columns-to-make-sorted",
+    "name": "Delete Columns To Make Sorted",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 1001,
+    "slug": "1001-n-repeated-element-in-size-2n-array",
+    "name": "N Repeated Element In Size 2n Array",
+    "difficulty": "Easy",
+    "solutionFile": "n-repeated-element-in-size-2n-array.py"
+  },
+  {
+    "id": 1005,
+    "slug": "1005-univalued-binary-tree",
+    "name": "Univalued Binary Tree",
+    "difficulty": "Easy",
+    "solutionFile": "univalued-binary-tree.py"
+  },
+  {
+    "id": 1019,
+    "slug": "1019-squares-of-a-sorted-array",
+    "name": "Squares Of A Sorted Array",
+    "difficulty": "Easy",
+    "solutionFile": "squares-of-a-sorted-array.py"
+  },
+  {
+    "id": 1036,
+    "slug": "1036-rotting-oranges",
+    "name": "Rotting Oranges",
+    "difficulty": "Medium",
+    "solutionFile": "rotting-oranges.py"
+  },
+  {
+    "id": 1046,
+    "slug": "1046-max-consecutive-ones-iii",
+    "name": "Max Consecutive Ones Iii",
+    "difficulty": "Medium",
+    "solutionFile": "max-consecutive-ones-iii.py"
+  },
+  {
+    "id": 1050,
+    "slug": "1050-construct-binary-search-tree-from-preorder-traversal",
+    "name": "Construct Binary Search Tree From Preorder Traversal",
+    "difficulty": "Medium",
+    "solutionFile": "construct-binary-search-tree-from-preorder-traversal.py"
+  },
+  {
+    "id": 1073,
+    "slug": "1073-number-of-enclaves",
+    "name": "Number Of Enclaves",
+    "difficulty": "Medium",
+    "solutionFile": "number-of-enclaves.py"
+  },
+  {
+    "id": 1093,
+    "slug": "1093-recover-a-tree-from-preorder-traversal",
+    "name": "Recover A Tree From Preorder Traversal",
+    "difficulty": "Hard",
+    "solutionFile": "recover-a-tree-from-preorder-traversal.py"
+  },
+  {
+    "id": 1128,
+    "slug": "1128-remove-all-adjacent-duplicates-in-string",
+    "name": "Remove All Adjacent Duplicates In String",
+    "difficulty": "Easy",
+    "solutionFile": "remove-all-adjacent-duplicates-in-string.py"
+  },
+  {
+    "id": 1135,
+    "slug": "1135-customers-who-bought-all-products",
+    "name": "Customers Who Bought All Products",
+    "difficulty": "Medium",
+    "solutionFile": "customers-who-bought-all-products.sql"
+  },
+  {
+    "id": 1153,
+    "slug": "1153-product-sales-analysis-i",
+    "name": "Product Sales Analysis I",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 1160,
+    "slug": "1160-letter-tile-possibilities",
+    "name": "Letter Tile Possibilities",
+    "difficulty": "Medium",
+    "solutionFile": "letter-tile-possibilities.py"
+  },
+  {
+    "id": 1161,
+    "slug": "1161-project-employees-i",
+    "name": "Project Employees I",
+    "difficulty": "Easy",
+    "solutionFile": "project-employees-i.sql"
+  },
+  {
+    "id": 1170,
+    "slug": "1170-shortest-common-supersequence",
+    "name": "Shortest Common Supersequence",
+    "difficulty": "Hard",
+    "solutionFile": "shortest-common-supersequence.py"
+  },
+  {
+    "id": 1171,
+    "slug": "1171-shortest-path-in-binary-matrix",
+    "name": "Shortest Path In Binary Matrix",
+    "difficulty": "Medium",
+    "solutionFile": "shortest-path-in-binary-matrix.py"
+  },
+  {
+    "id": 1179,
+    "slug": "1179-game-play-analysis-i",
+    "name": "Game Play Analysis I",
+    "difficulty": "Easy",
+    "solutionFile": "game-play-analysis-i.sql"
+  },
+  {
+    "id": 1205,
+    "slug": "1205-defanging-an-ip-address",
+    "name": "Defanging An Ip Address",
+    "difficulty": "Easy",
+    "solutionFile": "defanging-an-ip-address.py"
+  },
+  {
+    "id": 1210,
+    "slug": "1210-mean-of-array-after-removing-some-elements",
+    "name": "Mean Of Array After Removing Some Elements",
+    "difficulty": "Easy",
+    "solutionFile": "mean-of-array-after-removing-some-elements.py"
+  },
+  {
+    "id": 1231,
+    "slug": "1231-replace-elements-with-greatest-element-on-right-side",
+    "name": "Replace Elements With Greatest Element On Right Side",
+    "difficulty": "Easy",
+    "solutionFile": "replace-elements-with-greatest-element-on-right-side.py"
+  },
+  {
+    "id": 1241,
+    "slug": "1241-decompress-run-length-encoded-list",
+    "name": "Decompress Run Length Encoded List",
+    "difficulty": "Easy",
+    "solutionFile": "decompress-run-length-encoded-list.py"
+  },
+  {
+    "id": 1250,
+    "slug": "1250-longest-common-subsequence",
+    "name": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "solutionFile": "longest-common-subsequence.py"
+  },
+  {
+    "id": 1254,
+    "slug": "1254-deepest-leaves-sum",
+    "name": "Deepest Leaves Sum",
+    "difficulty": "Medium",
+    "solutionFile": "deepest-leaves-sum.py"
+  },
+  {
+    "id": 1258,
+    "slug": "1258-article-views-i",
+    "name": "Article Views I",
+    "difficulty": "Easy",
+    "solutionFile": "article-views-i.sql"
+  },
+  {
+    "id": 1264,
+    "slug": "1264-maximum-number-of-words-you-can-type",
+    "name": "Maximum Number Of Words You Can Type",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-number-of-words-you-can-type.py"
+  },
+  {
+    "id": 1283,
+    "slug": "1283-reformat-date",
+    "name": "Reformat Date",
+    "difficulty": "Easy",
+    "solutionFile": "reformat-date.py"
+  },
+  {
+    "id": 1293,
+    "slug": "1293-three-consecutive-odds",
+    "name": "Three Consecutive Odds",
+    "difficulty": "Easy",
+    "solutionFile": "three-consecutive-odds.py"
+  },
+  {
+    "id": 1306,
+    "slug": "1306-minimum-absolute-difference",
+    "name": "Minimum Absolute Difference",
+    "difficulty": "Easy",
+    "solutionFile": "minimum-absolute-difference.py"
+  },
+  {
+    "id": 1310,
+    "slug": "1310-watering-plants",
+    "name": "Watering Plants",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 1317,
+    "slug": "1317-monthly-transactions-i",
+    "name": "Monthly Transactions I",
+    "difficulty": "Medium",
+    "solutionFile": "monthly-transactions-i.sql"
+  },
+  {
+    "id": 1319,
+    "slug": "1319-unique-number-of-occurrences",
+    "name": "Unique Number Of Occurrences",
+    "difficulty": "Easy",
+    "solutionFile": "unique-number-of-occurrences.py"
+  },
+  {
+    "id": 1363,
+    "slug": "1363-greatest-english-letter-in-upper-and-lower-case",
+    "name": "Greatest English Letter In Upper And Lower Case",
+    "difficulty": "Easy",
+    "solutionFile": "greatest-english-letter-in-upper-and-lower-case.py"
+  },
+  {
+    "id": 1390,
+    "slug": "1390-average-selling-price",
+    "name": "Average Selling Price",
+    "difficulty": "Easy",
+    "solutionFile": "average-selling-price.sql"
+  },
+  {
+    "id": 1392,
+    "slug": "1392-find-the-difference-of-two-arrays",
+    "name": "Find The Difference Of Two Arrays",
+    "difficulty": "Easy",
+    "solutionFile": "find-the-difference-of-two-arrays.py"
+  },
+  {
+    "id": 1411,
+    "slug": "1411-convert-binary-number-in-a-linked-list-to-integer",
+    "name": "Convert Binary Number In A Linked List To Integer",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 1415,
+    "slug": "1415-students-and-examinations",
+    "name": "Students And Examinations",
+    "difficulty": "Easy",
+    "solutionFile": "students-and-examinations.sql"
+  },
+  {
+    "id": 1421,
+    "slug": "1421-find-numbers-with-even-number-of-digits",
+    "name": "Find Numbers With Even Number Of Digits",
+    "difficulty": "Easy",
+    "solutionFile": "find-numbers-with-even-number-of-digits.py"
+  },
+  {
+    "id": 1426,
+    "slug": "1426-find-n-unique-integers-sum-up-to-zero",
+    "name": "Find N Unique Integers Sum Up To Zero",
+    "difficulty": "Easy",
+    "solutionFile": "find-n-unique-integers-sum-up-to-zero.py"
+  },
+  {
+    "id": 1458,
+    "slug": "1458-sort-integers-by-the-number-of-1-bits",
+    "name": "Sort Integers By The Number Of 1 Bits",
+    "difficulty": "Easy",
+    "solutionFile": "sort-integers-by-the-number-of-1-bits.py"
+  },
+  {
+    "id": 1469,
+    "slug": "1469-minimum-number-of-steps-to-make-two-strings-anagram",
+    "name": "Minimum Number Of Steps To Make Two Strings Anagram",
+    "difficulty": "Medium",
+    "solutionFile": "minimum-number-of-steps-to-make-two-strings-anagram.py"
+  },
+  {
+    "id": 1476,
+    "slug": "1476-count-negative-numbers-in-a-sorted-matrix",
+    "name": "Count Negative Numbers In A Sorted Matrix",
+    "difficulty": "Easy",
+    "solutionFile": "count-negative-numbers-in-a-sorted-matrix.py"
+  },
+  {
+    "id": 1477,
+    "slug": "1477-product-of-the-last-k-numbers",
+    "name": "Product Of The Last K Numbers",
+    "difficulty": "Medium",
+    "solutionFile": "product-of-the-last-k-numbers.py"
+  },
+  {
+    "id": 1482,
+    "slug": "1482-how-many-numbers-are-smaller-than-the-current-number",
+    "name": "How Many Numbers Are Smaller Than The Current Number",
+    "difficulty": "Easy",
+    "solutionFile": "how-many-numbers-are-smaller-than-the-current-number.py"
+  },
+  {
+    "id": 1485,
+    "slug": "1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "name": "Minimum Cost To Make At Least One Valid Path In A Grid",
+    "difficulty": "Hard",
+    "solutionFile": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py"
+  },
+  {
+    "id": 1486,
+    "slug": "1486-find-the-distance-value-between-two-arrays",
+    "name": "Find The Distance Value Between Two Arrays",
+    "difficulty": "Easy",
+    "solutionFile": "find-the-distance-value-between-two-arrays.py"
+  },
+  {
+    "id": 1490,
+    "slug": "1490-generate-a-string-with-characters-that-have-odd-counts",
+    "name": "Generate A String With Characters That Have Odd Counts",
+    "difficulty": "Easy",
+    "solutionFile": "generate-a-string-with-characters-that-have-odd-counts.py"
+  },
+  {
+    "id": 1496,
+    "slug": "1496-lucky-numbers-in-a-matrix",
+    "name": "Lucky Numbers In A Matrix",
+    "difficulty": "Easy",
+    "solutionFile": "lucky-numbers-in-a-matrix.py"
+  },
+  {
+    "id": 1497,
+    "slug": "1497-design-a-stack-with-increment-operation",
+    "name": "Design A Stack With Increment Operation",
+    "difficulty": "Medium",
+    "solutionFile": "design-a-stack-with-increment-operation.py"
+  },
+  {
+    "id": 1498,
+    "slug": "1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+    "name": "Find A Corresponding Node Of A Binary Tree In A Clone Of That Tree",
+    "difficulty": "Easy",
+    "solutionFile": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py"
+  },
+  {
+    "id": 1502,
+    "slug": "1502-construct-k-palindrome-strings",
+    "name": "Construct K Palindrome Strings",
+    "difficulty": "Medium",
+    "solutionFile": "construct-k-palindrome-strings.py"
+  },
+  {
+    "id": 1505,
+    "slug": "1505-create-target-array-in-the-given-order",
+    "name": "Create Target Array In The Given Order",
+    "difficulty": "Easy",
+    "solutionFile": "create-target-array-in-the-given-order.py"
+  },
+  {
+    "id": 1510,
+    "slug": "1510-find-lucky-integer-in-an-array",
+    "name": "Find Lucky Integer In An Array",
+    "difficulty": "Easy",
+    "solutionFile": "find-lucky-integer-in-an-array.py"
+  },
+  {
+    "id": 1516,
+    "slug": "1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "name": "The K Th Lexicographical String Of All Happy Strings Of Length N",
+    "difficulty": "Medium",
+    "solutionFile": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py"
+  },
+  {
+    "id": 1525,
+    "slug": "1525-queries-on-a-permutation-with-key",
+    "name": "Queries On A Permutation With Key",
+    "difficulty": "Medium",
+    "solutionFile": "queries-on-a-permutation-with-key.py"
+  },
+  {
+    "id": 1528,
+    "slug": "1528-kids-with-the-greatest-number-of-candies",
+    "name": "Kids With The Greatest Number Of Candies",
+    "difficulty": "Easy",
+    "solutionFile": "kids-with-the-greatest-number-of-candies.py"
+  },
+  {
+    "id": 1529,
+    "slug": "1529-max-difference-you-can-get-from-changing-an-integer",
+    "name": "Max Difference You Can Get From Changing An Integer",
+    "difficulty": "Medium",
+    "solutionFile": "max-difference-you-can-get-from-changing-an-integer.py"
+  },
+  {
+    "id": 1538,
+    "slug": "1538-maximum-points-you-can-obtain-from-cards",
+    "name": "Maximum Points You Can Obtain From Cards",
+    "difficulty": "Medium",
+    "solutionFile": "maximum-points-you-can-obtain-from-cards.py"
+  },
+  {
+    "id": 1552,
+    "slug": "1552-build-an-array-with-stack-operations",
+    "name": "Build An Array With Stack Operations",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 1556,
+    "slug": "1556-make-two-arrays-equal-by-reversing-subarrays",
+    "name": "Make Two Arrays Equal By Reversing Subarrays",
+    "difficulty": "Easy",
+    "solutionFile": "make-two-arrays-equal-by-reversing-subarrays.py"
+  },
+  {
+    "id": 1558,
+    "slug": "1558-course-schedule-iv",
+    "name": "Course Schedule Iv",
+    "difficulty": "Medium",
+    "solutionFile": "course-schedule-iv.py"
+  },
+  {
+    "id": 1559,
+    "slug": "1559-cherry-pickup-ii",
+    "name": "Cherry Pickup Ii",
+    "difficulty": "Hard",
+    "solutionFile": "cherry-pickup-ii.py"
+  },
+  {
+    "id": 1560,
+    "slug": "1560-number-of-students-doing-homework-at-a-given-time",
+    "name": "Number Of Students Doing Homework At A Given Time",
+    "difficulty": "Easy",
+    "solutionFile": "number-of-students-doing-homework-at-a-given-time.py"
+  },
+  {
+    "id": 1572,
+    "slug": "1572-subrectangle-queries",
+    "name": "Subrectangle Queries",
+    "difficulty": "Medium",
+    "solutionFile": "subrectangle-queries.py"
+  },
+  {
+    "id": 1580,
+    "slug": "1580-shuffle-the-array",
+    "name": "Shuffle The Array",
+    "difficulty": "Easy",
+    "solutionFile": "shuffle-the-array.py"
+  },
+  {
+    "id": 1603,
+    "slug": "1603-running-sum-of-1d-array",
+    "name": "Running Sum Of 1d Array",
+    "difficulty": "Easy",
+    "solutionFile": "running-sum-of-1d-array.py"
+  },
+  {
+    "id": 1626,
+    "slug": "1626-can-make-arithmetic-progression-from-sequence",
+    "name": "Can Make Arithmetic Progression From Sequence",
+    "difficulty": "Easy",
+    "solutionFile": "can-make-arithmetic-progression-from-sequence.py"
+  },
+  {
+    "id": 1630,
+    "slug": "1630-count-odd-numbers-in-an-interval-range",
+    "name": "Count Odd Numbers In An Interval Range",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 1631,
+    "slug": "1631-number-of-sub-arrays-with-odd-sum",
+    "name": "Number Of Sub Arrays With Odd Sum",
+    "difficulty": "Medium",
+    "solutionFile": "number-of-sub-arrays-with-odd-sum.py"
+  },
+  {
+    "id": 1635,
+    "slug": "1635-number-of-good-pairs",
+    "name": "Number Of Good Pairs",
+    "difficulty": "Easy",
+    "solutionFile": "number-of-good-pairs.py"
+  },
+  {
+    "id": 1656,
+    "slug": "1656-count-good-triplets",
+    "name": "Count Good Triplets",
+    "difficulty": "Easy",
+    "solutionFile": "count-good-triplets.py"
+  },
+  {
+    "id": 1677,
+    "slug": "1677-matrix-diagonal-sum",
+    "name": "Matrix Diagonal Sum",
+    "difficulty": "Easy",
+    "solutionFile": "matrix-diagonal-sum.py"
+  },
+  {
+    "id": 1724,
+    "slug": "1724-customer-who-visited-but-did-not-make-any-transactions",
+    "name": "Customer Who Visited But Did Not Make Any Transactions",
+    "difficulty": "Easy",
+    "solutionFile": "customer-who-visited-but-did-not-make-any-transactions.sql"
+  },
+  {
+    "id": 1737,
+    "slug": "1737-maximum-nesting-depth-of-the-parentheses",
+    "name": "Maximum Nesting Depth Of The Parentheses",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-nesting-depth-of-the-parentheses.py"
+  },
+  {
+    "id": 1741,
+    "slug": "1741-sort-array-by-increasing-frequency",
+    "name": "Sort Array By Increasing Frequency",
+    "difficulty": "Easy",
+    "solutionFile": "sort-array-by-increasing-frequency.py"
+  },
+  {
+    "id": 1746,
+    "slug": "1746-largest-substring-between-two-equal-characters",
+    "name": "Largest Substring Between Two Equal Characters",
+    "difficulty": "Easy",
+    "solutionFile": "largest-substring-between-two-equal-characters.py"
+  },
+  {
+    "id": 1752,
+    "slug": "1752-arithmetic-subarrays",
+    "name": "Arithmetic Subarrays",
+    "difficulty": "Medium",
+    "solutionFile": "arithmetic-subarrays.py"
+  },
+  {
+    "id": 1753,
+    "slug": "1753-path-with-minimum-effort",
+    "name": "Path With Minimum Effort",
+    "difficulty": "Medium",
+    "solutionFile": "path-with-minimum-effort.py"
+  },
+  {
+    "id": 1756,
+    "slug": "1756-minimum-deletions-to-make-string-balanced",
+    "name": "Minimum Deletions To Make String Balanced",
+    "difficulty": "Medium",
+    "solutionFile": "minimum-deletions-to-make-string-balanced.py"
+  },
+  {
+    "id": 1765,
+    "slug": "1765-merge-in-between-linked-lists",
+    "name": "Merge In Between Linked Lists",
+    "difficulty": "Medium",
+    "solutionFile": "merge-in-between-linked-lists.py"
+  },
+  {
+    "id": 1773,
+    "slug": "1773-percentage-of-users-attended-a-contest",
+    "name": "Percentage Of Users Attended A Contest",
+    "difficulty": "Easy",
+    "solutionFile": "percentage-of-users-attended-a-contest.sql"
+  },
+  {
+    "id": 1781,
+    "slug": "1781-check-if-two-string-arrays-are-equivalent",
+    "name": "Check If Two String Arrays Are Equivalent",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 1786,
+    "slug": "1786-count-the-number-of-consistent-strings",
+    "name": "Count The Number Of Consistent Strings",
+    "difficulty": "Easy",
+    "solutionFile": "count-the-number-of-consistent-strings.py"
+  },
+  {
+    "id": 1791,
+    "slug": "1791-richest-customer-wealth",
+    "name": "Richest Customer Wealth",
+    "difficulty": "Easy",
+    "solutionFile": "richest-customer-wealth.py"
+  },
+  {
+    "id": 1797,
+    "slug": "1797-goal-parser-interpretation",
+    "name": "Goal Parser Interpretation",
+    "difficulty": "Easy",
+    "solutionFile": "goal-parser-interpretation.py"
+  },
+  {
+    "id": 1807,
+    "slug": "1807-partitioning-into-minimum-number-of-deci-binary-numbers",
+    "name": "Partitioning Into Minimum Number Of Deci Binary Numbers",
+    "difficulty": "Medium",
+    "solutionFile": "partitioning-into-minimum-number-of-deci-binary-numbers.py"
+  },
+  {
+    "id": 1819,
+    "slug": "1819-construct-the-lexicographically-largest-valid-sequence",
+    "name": "Construct The Lexicographically Largest Valid Sequence",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 1823,
+    "slug": "1823-determine-if-string-halves-are-alike",
+    "name": "Determine If String Halves Are Alike",
+    "difficulty": "Easy",
+    "solutionFile": "determine-if-string-halves-are-alike.py"
+  },
+  {
+    "id": 1833,
+    "slug": "1833-find-the-highest-altitude",
+    "name": "Find The Highest Altitude",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 1837,
+    "slug": "1837-daily-leads-and-partners",
+    "name": "Daily Leads And Partners",
+    "difficulty": "Easy",
+    "solutionFile": "daily-leads-and-partners.sql"
+  },
+  {
+    "id": 1839,
+    "slug": "1839-decode-xored-array",
+    "name": "Decode Xored Array",
+    "difficulty": "Easy",
+    "solutionFile": "decode-xored-array.py"
+  },
+  {
+    "id": 1848,
+    "slug": "1848-sum-of-unique-elements",
+    "name": "Sum Of Unique Elements",
+    "difficulty": "Easy",
+    "solutionFile": "sum-of-unique-elements.py"
+  },
+  {
+    "id": 1849,
+    "slug": "1849-maximum-absolute-sum-of-any-subarray",
+    "name": "Maximum Absolute Sum Of Any Subarray",
+    "difficulty": "Medium",
+    "solutionFile": "maximum-absolute-sum-of-any-subarray.py"
+  },
+  {
+    "id": 1876,
+    "slug": "1876-map-of-highest-peak",
+    "name": "Map Of Highest Peak",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 1877,
+    "slug": "1877-find-followers-count",
+    "name": "Find Followers Count",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 1878,
+    "slug": "1878-check-if-array-is-sorted-and-rotated",
+    "name": "Check If Array Is Sorted And Rotated",
+    "difficulty": "Easy",
+    "solutionFile": "check-if-array-is-sorted-and-rotated.py"
+  },
+  {
+    "id": 1892,
+    "slug": "1892-find-total-time-spent-by-each-employee",
+    "name": "Find Total Time Spent By Each Employee",
+    "difficulty": "Easy",
+    "solutionFile": "find-total-time-spent-by-each-employee.sql"
+  },
+  {
+    "id": 1899,
+    "slug": "1899-count-items-matching-a-rule",
+    "name": "Count Items Matching A Rule",
+    "difficulty": "Easy",
+    "solutionFile": "count-items-matching-a-rule.py"
+  },
+  {
+    "id": 1908,
+    "slug": "1908-recyclable-and-low-fat-products",
+    "name": "Recyclable And Low Fat Products",
+    "difficulty": "Easy",
+    "solutionFile": "recyclable-and-low-fat-products.sql"
+  },
+  {
+    "id": 1915,
+    "slug": "1915-check-if-one-string-swap-can-make-strings-equal",
+    "name": "Check If One String Swap Can Make Strings Equal",
+    "difficulty": "Easy",
+    "solutionFile": "check-if-one-string-swap-can-make-strings-equal.py"
+  },
+  {
+    "id": 1917,
+    "slug": "1917-maximum-average-pass-ratio",
+    "name": "Maximum Average Pass Ratio",
+    "difficulty": "Medium",
+    "solutionFile": "maximum-average-pass-ratio.py"
+  },
+  {
+    "id": 1944,
+    "slug": "1944-truncate-sentence",
+    "name": "Truncate Sentence",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 1945,
+    "slug": "1945-finding-the-users-active-minutes",
+    "name": "Finding The Users Active Minutes",
+    "difficulty": "Medium",
+    "solutionFile": "finding-the-users-active-minutes.py"
+  },
+  {
+    "id": 1951,
+    "slug": "1951-find-the-winner-of-the-circular-game",
+    "name": "Find The Winner Of The Circular Game",
+    "difficulty": "Medium",
+    "solutionFile": "find-the-winner-of-the-circular-game.py"
+  },
+  {
+    "id": 1954,
+    "slug": "1954-replace-all-digits-with-characters",
+    "name": "Replace All Digits With Characters",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 1960,
+    "slug": "1960-check-if-the-sentence-is-pangram",
+    "name": "Check If The Sentence Is Pangram",
+    "difficulty": "Easy",
+    "solutionFile": "check-if-the-sentence-is-pangram.py"
+  },
+  {
+    "id": 1987,
+    "slug": "1987-substrings-of-size-three-with-distinct-characters",
+    "name": "Substrings Of Size Three With Distinct Characters",
+    "difficulty": "Easy",
+    "solutionFile": "substrings-of-size-three-with-distinct-characters.py"
+  },
+  {
+    "id": 1988,
+    "slug": "1988-minimize-maximum-pair-sum-in-array",
+    "name": "Minimize Maximum Pair Sum In Array",
+    "difficulty": "Medium",
+    "solutionFile": "minimize-maximum-pair-sum-in-array.py"
+  },
+  {
+    "id": 2021,
+    "slug": "2021-remove-all-occurrences-of-a-substring",
+    "name": "Remove All Occurrences Of A Substring",
+    "difficulty": "Medium",
+    "solutionFile": "remove-all-occurrences-of-a-substring.py"
+  },
+  {
+    "id": 2042,
+    "slug": "2042-maximum-product-difference-between-two-pairs",
+    "name": "Maximum Product Difference Between Two Pairs",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-product-difference-between-two-pairs.py"
+  },
+  {
+    "id": 2048,
+    "slug": "2048-build-array-from-permutation",
+    "name": "Build Array From Permutation",
+    "difficulty": "Easy",
+    "solutionFile": "build-array-from-permutation.py"
+  },
+  {
+    "id": 2058,
+    "slug": "2058-concatenation-of-array",
+    "name": "Concatenation Of Array",
+    "difficulty": "Easy",
+    "solutionFile": "concatenation-of-array.py"
+  },
+  {
+    "id": 2102,
+    "slug": "2102-find-the-middle-index-in-array",
+    "name": "Find The Middle Index In Array",
+    "difficulty": "Easy",
+    "solutionFile": "find-the-middle-index-in-array.py"
+  },
+  {
+    "id": 2106,
+    "slug": "2106-find-greatest-common-divisor-of-array",
+    "name": "Find Greatest Common Divisor Of Array",
+    "difficulty": "Easy",
+    "solutionFile": "find-greatest-common-divisor-of-array.py"
+  },
+  {
+    "id": 2107,
+    "slug": "2107-find-unique-binary-string",
+    "name": "Find Unique Binary String",
+    "difficulty": "Medium",
+    "solutionFile": "find-unique-binary-string.py"
+  },
+  {
+    "id": 2116,
+    "slug": "2116-count-number-of-pairs-with-absolute-difference-k",
+    "name": "Count Number Of Pairs With Absolute Difference K",
+    "difficulty": "Easy",
+    "solutionFile": "count-number-of-pairs-with-absolute-difference-k.py"
+  },
+  {
+    "id": 2144,
+    "slug": "2144-maximum-difference-between-increasing-elements",
+    "name": "Maximum Difference Between Increasing Elements",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-difference-between-increasing-elements.py"
+  },
+  {
+    "id": 2145,
+    "slug": "2145-grid-game",
+    "name": "Grid Game",
+    "difficulty": "Medium",
+    "solutionFile": "grid-game.py"
+  },
+  {
+    "id": 2148,
+    "slug": "2148-minimum-number-of-moves-to-seat-everyone",
+    "name": "Minimum Number Of Moves To Seat Everyone",
+    "difficulty": "Easy",
+    "solutionFile": "minimum-number-of-moves-to-seat-everyone.py"
+  },
+  {
+    "id": 2159,
+    "slug": "2159-two-out-of-three",
+    "name": "Two Out Of Three",
+    "difficulty": "Easy",
+    "solutionFile": "two-out-of-three.py"
+  },
+  {
+    "id": 2181,
+    "slug": "2181-smallest-index-with-equal-value",
+    "name": "Smallest Index With Equal Value",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 2190,
+    "slug": "2190-count-common-words-with-one-occurrence",
+    "name": "Count Common Words With One Occurrence",
+    "difficulty": "Easy",
+    "solutionFile": "count-common-words-with-one-occurrence.py"
+  },
+  {
+    "id": 2210,
+    "slug": "2210-find-target-indices-after-sorting-array",
+    "name": "Find Target Indices After Sorting Array",
+    "difficulty": "Easy",
+    "solutionFile": "find-target-indices-after-sorting-array.py"
+  },
+  {
+    "id": 2215,
+    "slug": "2215-finding-3-digit-even-numbers",
+    "name": "Finding 3 Digit Even Numbers",
+    "difficulty": "Easy",
+    "solutionFile": "finding-3-digit-even-numbers.py"
+  },
+  {
+    "id": 2216,
+    "slug": "2216-delete-the-middle-node-of-a-linked-list",
+    "name": "Delete The Middle Node Of A Linked List",
+    "difficulty": "Medium",
+    "solutionFile": "delete-the-middle-node-of-a-linked-list.py"
+  },
+  {
+    "id": 2221,
+    "slug": "2221-check-if-a-parentheses-string-can-be-valid",
+    "name": "Check If A Parentheses String Can Be Valid",
+    "difficulty": "Medium",
+    "solutionFile": "check-if-a-parentheses-string-can-be-valid.py"
+  },
+  {
+    "id": 2236,
+    "slug": "2236-maximum-twin-sum-of-a-linked-list",
+    "name": "Maximum Twin Sum Of A Linked List",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 2244,
+    "slug": "2244-number-of-laser-beams-in-a-bank",
+    "name": "Number Of Laser Beams In A Bank",
+    "difficulty": "Medium",
+    "solutionFile": "number-of-laser-beams-in-a-bank.py"
+  },
+  {
+    "id": 2246,
+    "slug": "2246-maximum-employees-to-be-invited-to-a-meeting",
+    "name": "Maximum Employees To Be Invited To A Meeting",
+    "difficulty": "Hard",
+    "solutionFile": "maximum-employees-to-be-invited-to-a-meeting.py"
+  },
+  {
+    "id": 2260,
+    "slug": "2260-divide-a-string-into-groups-of-size-k",
+    "name": "Divide A String Into Groups Of Size K",
+    "difficulty": "Easy",
+    "solutionFile": "divide-a-string-into-groups-of-size-k.py"
+  },
+  {
+    "id": 2265,
+    "slug": "2265-partition-array-according-to-given-pivot",
+    "name": "Partition Array According To Given Pivot",
+    "difficulty": "Medium",
+    "solutionFile": "partition-array-according-to-given-pivot.py"
+  },
+  {
+    "id": 2271,
+    "slug": "2271-rearrange-array-elements-by-sign",
+    "name": "Rearrange Array Elements By Sign",
+    "difficulty": "Medium",
+    "solutionFile": "rearrange-array-elements-by-sign.py"
+  },
+  {
+    "id": 2274,
+    "slug": "2274-keep-multiplying-found-values-by-two",
+    "name": "Keep Multiplying Found Values By Two",
+    "difficulty": "Easy",
+    "solutionFile": "keep-multiplying-found-values-by-two.py"
+  },
+  {
+    "id": 2277,
+    "slug": "2277-count-equal-and-divisible-pairs-in-an-array",
+    "name": "Count Equal And Divisible Pairs In An Array",
+    "difficulty": "Easy",
+    "solutionFile": "count-equal-and-divisible-pairs-in-an-array.py"
+  },
+  {
+    "id": 2288,
+    "slug": "2288-count-operations-to-obtain-zero",
+    "name": "Count Operations To Obtain Zero",
+    "difficulty": "Easy",
+    "solutionFile": "count-operations-to-obtain-zero.py"
+  },
+  {
+    "id": 2299,
+    "slug": "2299-merge-nodes-in-between-zeros",
+    "name": "Merge Nodes In Between Zeros",
+    "difficulty": "Medium",
+    "solutionFile": "merge-nodes-in-between-zeros.py"
+  },
+  {
+    "id": 2308,
+    "slug": "2308-divide-array-into-equal-pairs",
+    "name": "Divide Array Into Equal Pairs",
+    "difficulty": "Easy",
+    "solutionFile": "divide-array-into-equal-pairs.py"
+  },
+  {
+    "id": 2323,
+    "slug": "2323-minimum-bit-flips-to-convert-number",
+    "name": "Minimum Bit Flips To Convert Number",
+    "difficulty": "Easy",
+    "solutionFile": "minimum-bit-flips-to-convert-number.py"
+  },
+  {
+    "id": 2324,
+    "slug": "2324-find-triangular-sum-of-an-array",
+    "name": "Find Triangular Sum Of An Array",
+    "difficulty": "Medium",
+    "solutionFile": "find-triangular-sum-of-an-array.py"
+  },
+  {
+    "id": 2331,
+    "slug": "2331-intersection-of-multiple-arrays",
+    "name": "Intersection Of Multiple Arrays",
+    "difficulty": "Easy",
+    "solutionFile": "intersection-of-multiple-arrays.py"
+  },
+  {
+    "id": 2384,
+    "slug": "2384-root-equals-sum-of-children",
+    "name": "Root Equals Sum Of Children",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 2387,
+    "slug": "2387-partition-array-such-that-maximum-difference-is-k",
+    "name": "Partition Array Such That Maximum Difference Is K",
+    "difficulty": "Medium",
+    "solutionFile": "partition-array-such-that-maximum-difference-is-k.py"
+  },
+  {
+    "id": 2402,
+    "slug": "2402-maximum-xor-after-operations",
+    "name": "Maximum Xor After Operations",
+    "difficulty": "Medium",
+    "solutionFile": "maximum-xor-after-operations.py"
+  },
+  {
+    "id": 2434,
+    "slug": "2434-design-a-number-container-system",
+    "name": "Design A Number Container System",
+    "difficulty": "Medium",
+    "solutionFile": "design-a-number-container-system.py"
+  },
+  {
+    "id": 2442,
+    "slug": "2442-number-of-arithmetic-triplets",
+    "name": "Number Of Arithmetic Triplets",
+    "difficulty": "Easy",
+    "solutionFile": "number-of-arithmetic-triplets.py"
+  },
+  {
+    "id": 2447,
+    "slug": "2447-merge-similar-items",
+    "name": "Merge Similar Items",
+    "difficulty": "Easy",
+    "solutionFile": "merge-similar-items.py"
+  },
+  {
+    "id": 2448,
+    "slug": "2448-count-number-of-bad-pairs",
+    "name": "Count Number Of Bad Pairs",
+    "difficulty": "Medium",
+    "solutionFile": "count-number-of-bad-pairs.py"
+  },
+  {
+    "id": 2456,
+    "slug": "2456-construct-smallest-number-from-di-string",
+    "name": "Construct Smallest Number From Di String",
+    "difficulty": "Medium",
+    "solutionFile": "construct-smallest-number-from-di-string.py"
+  },
+  {
+    "id": 2470,
+    "slug": "2470-removing-stars-from-a-string",
+    "name": "Removing Stars From A String",
+    "difficulty": "Medium",
+    "solutionFile": "removing-stars-from-a-string.py"
+  },
+  {
+    "id": 2471,
+    "slug": "2471-minimum-amount-of-time-to-collect-garbage",
+    "name": "Minimum Amount Of Time To Collect Garbage",
+    "difficulty": "Medium",
+    "solutionFile": "minimum-amount-of-time-to-collect-garbage.py"
+  },
+  {
+    "id": 2473,
+    "slug": "2473-max-sum-of-a-pair-with-equal-sum-of-digits",
+    "name": "Max Sum Of A Pair With Equal Sum Of Digits",
+    "difficulty": "Medium",
+    "solutionFile": "max-sum-of-a-pair-with-equal-sum-of-digits.py"
+  },
+  {
+    "id": 2476,
+    "slug": "2476-check-distances-between-same-letters",
+    "name": "Check Distances Between Same Letters",
+    "difficulty": "Easy",
+    "solutionFile": "check-distances-between-same-letters.py"
+  },
+  {
+    "id": 2487,
+    "slug": "2487-optimal-partition-of-string",
+    "name": "Optimal Partition Of String",
+    "difficulty": "Medium",
+    "solutionFile": "optimal-partition-of-string.py"
+  },
+  {
+    "id": 2495,
+    "slug": "2495-number-of-unique-subjects-taught-by-each-teacher",
+    "name": "Number Of Unique Subjects Taught By Each Teacher",
+    "difficulty": "Easy",
+    "solutionFile": "number-of-unique-subjects-taught-by-each-teacher.sql"
+  },
+  {
+    "id": 2497,
+    "slug": "2497-maximum-matching-of-players-with-trainers",
+    "name": "Maximum Matching Of Players With Trainers",
+    "difficulty": "Medium",
+    "solutionFile": "maximum-matching-of-players-with-trainers.py"
+  },
+  {
+    "id": 2502,
+    "slug": "2502-sort-the-people",
+    "name": "Sort The People",
+    "difficulty": "Easy",
+    "solutionFile": "sort-the-people.py"
+  },
+  {
+    "id": 2509,
+    "slug": "2509-minimize-xor",
+    "name": "Minimize Xor",
+    "difficulty": "Medium",
+    "solutionFile": "minimize-xor.py"
+  },
+  {
+    "id": 2519,
+    "slug": "2519-find-the-original-array-of-prefix-xor",
+    "name": "Find The Original Array Of Prefix Xor",
+    "difficulty": "Medium",
+    "solutionFile": "find-the-original-array-of-prefix-xor.py"
+  },
+  {
+    "id": 2520,
+    "slug": "2520-using-a-robot-to-print-the-lexicographically-smallest-string",
+    "name": "Using A Robot To Print The Lexicographically Smallest String",
+    "difficulty": "Medium",
+    "solutionFile": "using-a-robot-to-print-the-lexicographically-smallest-string.py"
+  },
+  {
+    "id": 2524,
+    "slug": "2524-largest-positive-integer-that-exists-with-its-negative",
+    "name": "Largest Positive Integer That Exists With Its Negative",
+    "difficulty": "Easy",
+    "solutionFile": "largest-positive-integer-that-exists-with-its-negative.py"
+  },
+  {
+    "id": 2525,
+    "slug": "2525-count-number-of-distinct-integers-after-reverse-operations",
+    "name": "Count Number Of Distinct Integers After Reverse Operations",
+    "difficulty": "Medium",
+    "solutionFile": "count-number-of-distinct-integers-after-reverse-operations.py"
+  },
+  {
+    "id": 2533,
+    "slug": "2533-bitwise-xor-of-all-pairings",
+    "name": "Bitwise Xor Of All Pairings",
+    "difficulty": "Medium",
+    "solutionFile": "bitwise-xor-of-all-pairings.py"
+  },
+  {
+    "id": 2551,
+    "slug": "2551-apply-operations-to-an-array",
+    "name": "Apply Operations To An Array",
+    "difficulty": "Easy",
+    "solutionFile": "apply-operations-to-an-array.py"
+  },
+  {
+    "id": 2580,
+    "slug": "2580-circular-sentence",
+    "name": "Circular Sentence",
+    "difficulty": "Easy",
+    "solutionFile": "circular-sentence.py"
+  },
+  {
+    "id": 2583,
+    "slug": "2583-divide-nodes-into-the-maximum-number-of-groups",
+    "name": "Divide Nodes Into The Maximum Number Of Groups",
+    "difficulty": "Hard",
+    "solutionFile": "divide-nodes-into-the-maximum-number-of-groups.py"
+  },
+  {
+    "id": 2585,
+    "slug": "2585-delete-greatest-value-in-each-row",
+    "name": "Delete Greatest Value In Each Row",
+    "difficulty": "Easy",
+    "solutionFile": "delete-greatest-value-in-each-row.py"
+  },
+  {
+    "id": 2589,
+    "slug": "2589-maximum-value-of-a-string-in-an-array",
+    "name": "Maximum Value Of A String In An Array",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 2594,
+    "slug": "2594-count-pairs-of-similar-strings",
+    "name": "Count Pairs Of Similar Strings",
+    "difficulty": "Easy",
+    "solutionFile": "count-pairs-of-similar-strings.py"
+  },
+  {
+    "id": 2606,
+    "slug": "2606-difference-between-ones-and-zeros-in-row-and-column",
+    "name": "Difference Between Ones And Zeros In Row And Column",
+    "difficulty": "Medium",
+    "solutionFile": "difference-between-ones-and-zeros-in-row-and-column.py"
+  },
+  {
+    "id": 2614,
+    "slug": "2614-maximum-count-of-positive-integer-and-negative-integer",
+    "name": "Maximum Count Of Positive Integer And Negative Integer",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-count-of-positive-integer-and-negative-integer.py"
+  },
+  {
+    "id": 2624,
+    "slug": "2624-difference-between-element-sum-and-digit-sum-of-an-array",
+    "name": "Difference Between Element Sum And Digit Sum Of An Array",
+    "difficulty": "Easy",
+    "solutionFile": "difference-between-element-sum-and-digit-sum-of-an-array.py"
+  },
+  {
+    "id": 2639,
+    "slug": "2639-separate-the-digits-in-an-array",
+    "name": "Separate The Digits In An Array",
+    "difficulty": "Easy",
+    "solutionFile": "separate-the-digits-in-an-array.py"
+  },
+  {
+    "id": 2654,
+    "slug": "2654-count-the-number-of-vowel-strings-in-range",
+    "name": "Count The Number Of Vowel Strings In Range",
+    "difficulty": "Easy",
+    "solutionFile": "count-the-number-of-vowel-strings-in-range.py"
+  },
+  {
+    "id": 2685,
+    "slug": "2685-first-completely-painted-row-or-column",
+    "name": "First Completely Painted Row Or Column",
+    "difficulty": "Medium",
+    "solutionFile": "first-completely-painted-row-or-column.py"
+  },
+  {
+    "id": 2698,
+    "slug": "2698-find-the-array-concatenation-value",
+    "name": "Find The Array Concatenation Value",
+    "difficulty": "Easy",
+    "solutionFile": "find-the-array-concatenation-value.py"
+  },
+  {
+    "id": 2704,
+    "slug": "2704-maximum-difference-by-remapping-a-digit",
+    "name": "Maximum Difference By Remapping A Digit",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-difference-by-remapping-a-digit.py"
+  },
+  {
+    "id": 2714,
+    "slug": "2714-left-and-right-sum-differences",
+    "name": "Left And Right Sum Differences",
+    "difficulty": "Easy",
+    "solutionFile": "left-and-right-sum-differences.py"
+  },
+  {
+    "id": 2727,
+    "slug": "2727-number-of-senior-citizens",
+    "name": "Number Of Senior Citizens",
+    "difficulty": "Easy",
+    "solutionFile": "number-of-senior-citizens.py"
+  },
+  {
+    "id": 2737,
+    "slug": "2737-row-with-maximum-ones",
+    "name": "Row With Maximum Ones",
+    "difficulty": "Easy",
+    "solutionFile": "row-with-maximum-ones.py"
+  },
+  {
+    "id": 2756,
+    "slug": "2756-buy-two-chocolates",
+    "name": "Buy Two Chocolates",
+    "difficulty": "Easy",
+    "solutionFile": "buy-two-chocolates.py"
+  },
+  {
+    "id": 2764,
+    "slug": "2764-maximum-number-of-fish-in-a-grid",
+    "name": "Maximum Number Of Fish In A Grid",
+    "difficulty": "Medium",
+    "solutionFile": "maximum-number-of-fish-in-a-grid.py"
+  },
+  {
+    "id": 2766,
+    "slug": "2766-find-the-prefix-common-array-of-two-arrays",
+    "name": "Find The Prefix Common Array Of Two Arrays",
+    "difficulty": "Medium",
+    "solutionFile": "find-the-prefix-common-array-of-two-arrays.py"
+  },
+  {
+    "id": 2767,
+    "slug": "2767-maximum-sum-with-exactly-k-elements",
+    "name": "Maximum Sum With Exactly K Elements",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-sum-with-exactly-k-elements.py"
+  },
+  {
+    "id": 2777,
+    "slug": "2777-find-the-distinct-difference-array",
+    "name": "Find The Distinct Difference Array",
+    "difficulty": "Easy",
+    "solutionFile": "find-the-distinct-difference-array.py"
+  },
+  {
+    "id": 2792,
+    "slug": "2792-neighboring-bitwise-xor",
+    "name": "Neighboring Bitwise Xor",
+    "difficulty": "Medium",
+    "solutionFile": "neighboring-bitwise-xor.py"
+  },
+  {
+    "id": 2800,
+    "slug": "2800-minimum-string-length-after-removing-substrings",
+    "name": "Minimum String Length After Removing Substrings",
+    "difficulty": "Easy",
+    "solutionFile": "minimum-string-length-after-removing-substrings.py"
+  },
+  {
+    "id": 2802,
+    "slug": "2802-find-the-punishment-number-of-an-integer",
+    "name": "Find The Punishment Number Of An Integer",
+    "difficulty": "Medium",
+    "solutionFile": "find-the-punishment-number-of-an-integer.py"
+  },
+  {
+    "id": 2819,
+    "slug": "2819-remove-trailing-zeros-from-a-string",
+    "name": "Remove Trailing Zeros From A String",
+    "difficulty": "Easy",
+    "solutionFile": "remove-trailing-zeros-from-a-string.py"
+  },
+  {
+    "id": 2836,
+    "slug": "2836-neither-minimum-nor-maximum",
+    "name": "Neither Minimum Nor Maximum",
+    "difficulty": "Easy",
+    "solutionFile": "neither-minimum-nor-maximum.py"
+  },
+  {
+    "id": 2844,
+    "slug": "2844-sum-of-squares-of-special-elements",
+    "name": "Sum Of Squares Of Special Elements",
+    "difficulty": "Easy",
+    "solutionFile": "sum-of-squares-of-special-elements.py"
+  },
+  {
+    "id": 2847,
+    "slug": "2847-find-maximum-number-of-string-pairs",
+    "name": "Find Maximum Number Of String Pairs",
+    "difficulty": "Easy",
+    "solutionFile": "find-maximum-number-of-string-pairs.py"
+  },
+  {
+    "id": 2856,
+    "slug": "2856-count-complete-subarrays-in-an-array",
+    "name": "Count Complete Subarrays In An Array",
+    "difficulty": "Medium",
+    "solutionFile": "count-complete-subarrays-in-an-array.py"
+  },
+  {
+    "id": 2876,
+    "slug": "2876-number-of-employees-who-met-the-target",
+    "name": "Number Of Employees Who Met The Target",
+    "difficulty": "Easy",
+    "solutionFile": "number-of-employees-who-met-the-target.py"
+  },
+  {
+    "id": 2881,
+    "slug": "2881-split-strings-by-separator",
+    "name": "Split Strings By Separator",
+    "difficulty": "Easy",
+    "solutionFile": "split-strings-by-separator.py"
+  },
+  {
+    "id": 2886,
+    "slug": "2886-faulty-keyboard",
+    "name": "Faulty Keyboard",
+    "difficulty": "Easy",
+    "solutionFile": "faulty-keyboard.py"
+  },
+  {
+    "id": 2887,
+    "slug": "2887-sort-vowels-in-a-string",
+    "name": "Sort Vowels In A String",
+    "difficulty": "Medium",
+    "solutionFile": "sort-vowels-in-a-string.py"
+  },
+  {
+    "id": 2903,
+    "slug": "2903-insert-greatest-common-divisors-in-linked-list",
+    "name": "Insert Greatest Common Divisors In Linked List",
+    "difficulty": "Medium",
+    "solutionFile": "insert-greatest-common-divisors-in-linked-list.py"
+  },
+  {
+    "id": 2917,
+    "slug": "2917-count-pairs-whose-sum-is-less-than-target",
+    "name": "Count Pairs Whose Sum Is Less Than Target",
+    "difficulty": "Easy",
+    "solutionFile": "count-pairs-whose-sum-is-less-than-target.py"
+  },
+  {
+    "id": 2977,
+    "slug": "2977-check-if-a-string-is-an-acronym-of-words",
+    "name": "Check If A String Is An Acronym Of Words",
+    "difficulty": "Easy",
+    "solutionFile": "check-if-a-string-is-an-acronym-of-words.py"
+  },
+  {
+    "id": 3143,
+    "slug": "3143-longest-unequal-adjacent-groups-subsequence-i",
+    "name": "Longest Unequal Adjacent Groups Subsequence I",
+    "difficulty": "Easy",
+    "solutionFile": "longest-unequal-adjacent-groups-subsequence-i.py"
+  },
+  {
+    "id": 3172,
+    "slug": "3172-divisible-and-non-divisible-sums-difference",
+    "name": "Divisible And Non Divisible Sums Difference",
+    "difficulty": "Easy",
+    "solutionFile": "divisible-and-non-divisible-sums-difference.py"
+  },
+  {
+    "id": 3188,
+    "slug": "3188-find-champion-i",
+    "name": "Find Champion I",
+    "difficulty": "Easy",
+    "solutionFile": "find-champion-i.py"
+  },
+  {
+    "id": 3194,
+    "slug": "3194-find-words-containing-character",
+    "name": "Find Words Containing Character",
+    "difficulty": "Easy",
+    "solutionFile": "find-words-containing-character.py"
+  },
+  {
+    "id": 3206,
+    "slug": "3206-find-common-elements-between-two-arrays",
+    "name": "Find Common Elements Between Two Arrays",
+    "difficulty": "Easy",
+    "solutionFile": "find-common-elements-between-two-arrays.py"
+  },
+  {
+    "id": 3219,
+    "slug": "3219-make-lexicographically-smallest-array-by-swapping-elements",
+    "name": "Make Lexicographically Smallest Array By Swapping Elements",
+    "difficulty": "Medium",
+    "solutionFile": "make-lexicographically-smallest-array-by-swapping-elements.py"
+  },
+  {
+    "id": 3226,
+    "slug": "3226-minimum-number-game",
+    "name": "Minimum Number Game",
+    "difficulty": "Easy",
+    "solutionFile": "minimum-number-game.py"
+  },
+  {
+    "id": 3227,
+    "slug": "3227-find-missing-and-repeated-values",
+    "name": "Find Missing And Repeated Values",
+    "difficulty": "Easy",
+    "solutionFile": "find-missing-and-repeated-values.py"
+  },
+  {
+    "id": 3241,
+    "slug": "3241-divide-array-into-arrays-with-max-difference",
+    "name": "Divide Array Into Arrays With Max Difference",
+    "difficulty": "Medium",
+    "solutionFile": null
+  },
+  {
+    "id": 3242,
+    "slug": "3242-count-elements-with-maximum-frequency",
+    "name": "Count Elements With Maximum Frequency",
+    "difficulty": "Easy",
+    "solutionFile": "count-elements-with-maximum-frequency.py"
+  },
+  {
+    "id": 3276,
+    "slug": "3276-minimum-number-of-pushes-to-type-word-ii",
+    "name": "Minimum Number Of Pushes To Type Word Ii",
+    "difficulty": "Medium",
+    "solutionFile": "minimum-number-of-pushes-to-type-word-ii.py"
+  },
+  {
+    "id": 3277,
+    "slug": "3277-find-the-number-of-ways-to-place-people-ii",
+    "name": "Find The Number Of Ways To Place People Ii",
+    "difficulty": "Hard",
+    "solutionFile": "find-the-number-of-ways-to-place-people-ii.py"
+  },
+  {
+    "id": 3278,
+    "slug": "3278-find-the-number-of-ways-to-place-people-i",
+    "name": "Find The Number Of Ways To Place People I",
+    "difficulty": "Medium",
+    "solutionFile": "find-the-number-of-ways-to-place-people-i.py"
+  },
+  {
+    "id": 3312,
+    "slug": "3312-number-of-changing-keys",
+    "name": "Number Of Changing Keys",
+    "difficulty": "Easy",
+    "solutionFile": "number-of-changing-keys.py"
+  },
+  {
+    "id": 3321,
+    "slug": "3321-type-of-triangle",
+    "name": "Type Of Triangle",
+    "difficulty": "Easy",
+    "solutionFile": "type-of-triangle.py"
+  },
+  {
+    "id": 3331,
+    "slug": "3331-minimum-operations-to-exceed-threshold-value-i",
+    "name": "Minimum Operations To Exceed Threshold Value I",
+    "difficulty": "Easy",
+    "solutionFile": "minimum-operations-to-exceed-threshold-value-i.py"
+  },
+  {
+    "id": 3332,
+    "slug": "3332-minimum-operations-to-exceed-threshold-value-ii",
+    "name": "Minimum Operations To Exceed Threshold Value Ii",
+    "difficulty": "Medium",
+    "solutionFile": "minimum-operations-to-exceed-threshold-value-ii.py"
+  },
+  {
+    "id": 3334,
+    "slug": "3334-apple-redistribution-into-boxes",
+    "name": "Apple Redistribution Into Boxes",
+    "difficulty": "Easy",
+    "solutionFile": "apple-redistribution-into-boxes.py"
+  },
+  {
+    "id": 3347,
+    "slug": "3347-distribute-elements-into-two-arrays-i",
+    "name": "Distribute Elements Into Two Arrays I",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 3367,
+    "slug": "3367-find-the-sum-of-encrypted-integers",
+    "name": "Find The Sum Of Encrypted Integers",
+    "difficulty": "Easy",
+    "solutionFile": "find-the-sum-of-encrypted-integers.py"
+  },
+  {
+    "id": 3372,
+    "slug": "3372-longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "name": "Longest Strictly Increasing Or Strictly Decreasing Subarray",
+    "difficulty": "Easy",
+    "solutionFile": "longest-strictly-increasing-or-strictly-decreasing-subarray.py"
+  },
+  {
+    "id": 3379,
+    "slug": "3379-score-of-a-string",
+    "name": "Score Of A String",
+    "difficulty": "Easy",
+    "solutionFile": "score-of-a-string.py"
+  },
+  {
+    "id": 3396,
+    "slug": "3396-valid-word",
+    "name": "Valid Word",
+    "difficulty": "Easy",
+    "solutionFile": "valid-word.py"
+  },
+  {
+    "id": 3397,
+    "slug": "3397-find-the-integer-added-to-array-i",
+    "name": "Find The Integer Added To Array I",
+    "difficulty": "Easy",
+    "solutionFile": "find-the-integer-added-to-array-i.py"
+  },
+  {
+    "id": 3412,
+    "slug": "3412-permutation-difference-between-two-strings",
+    "name": "Permutation Difference Between Two Strings",
+    "difficulty": "Easy",
+    "solutionFile": "permutation-difference-between-two-strings.py"
+  },
+  {
+    "id": 3421,
+    "slug": "3421-count-pairs-that-form-a-complete-day-i",
+    "name": "Count Pairs That Form A Complete Day I",
+    "difficulty": "Easy",
+    "solutionFile": "count-pairs-that-form-a-complete-day-i.py"
+  },
+  {
+    "id": 3426,
+    "slug": "3426-minimum-number-of-chairs-in-a-waiting-room",
+    "name": "Minimum Number Of Chairs In A Waiting Room",
+    "difficulty": "Easy",
+    "solutionFile": "minimum-number-of-chairs-in-a-waiting-room.py"
+  },
+  {
+    "id": 3428,
+    "slug": "3428-find-the-xor-of-numbers-which-appear-twice",
+    "name": "Find The Xor Of Numbers Which Appear Twice",
+    "difficulty": "Easy",
+    "solutionFile": "find-the-xor-of-numbers-which-appear-twice.py"
+  },
+  {
+    "id": 3429,
+    "slug": "3429-special-array-i",
+    "name": "Special Array I",
+    "difficulty": "Easy",
+    "solutionFile": "special-array-i.py"
+  },
+  {
+    "id": 3446,
+    "slug": "3446-find-the-number-of-good-pairs-i",
+    "name": "Find The Number Of Good Pairs I",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 3447,
+    "slug": "3447-clear-digits",
+    "name": "Clear Digits",
+    "difficulty": "Easy",
+    "solutionFile": "clear-digits.py"
+  },
+  {
+    "id": 3455,
+    "slug": "3455-minimum-length-of-string-after-operations",
+    "name": "Minimum Length Of String After Operations",
+    "difficulty": "Medium",
+    "solutionFile": "minimum-length-of-string-after-operations.py"
+  },
+  {
+    "id": 3468,
+    "slug": "3468-find-the-encrypted-string",
+    "name": "Find The Encrypted String",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 3475,
+    "slug": "3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+    "name": "Minimum Operations To Make Binary Array Elements Equal To One I",
+    "difficulty": "Medium",
+    "solutionFile": "minimum-operations-to-make-binary-array-elements-equal-to-one-i.py"
+  },
+  {
+    "id": 3476,
+    "slug": "3476-find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "name": "Find Minimum Operations To Make All Elements Divisible By Three",
+    "difficulty": "Easy",
+    "solutionFile": "find-minimum-operations-to-make-all-elements-divisible-by-three.py"
+  },
+  {
+    "id": 3515,
+    "slug": "3515-find-if-digit-game-can-be-won",
+    "name": "Find If Digit Game Can Be Won",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 3540,
+    "slug": "3540-hash-divided-string",
+    "name": "Hash Divided String",
+    "difficulty": "Medium",
+    "solutionFile": "hash-divided-string.py"
+  },
+  {
+    "id": 3567,
+    "slug": "3567-convert-date-to-binary",
+    "name": "Convert Date To Binary",
+    "difficulty": "Easy",
+    "solutionFile": "convert-date-to-binary.py"
+  },
+  {
+    "id": 3581,
+    "slug": "3581-the-two-sneaky-numbers-of-digitville",
+    "name": "The Two Sneaky Numbers Of Digitville",
+    "difficulty": "Easy",
+    "solutionFile": "the-two-sneaky-numbers-of-digitville.py"
+  },
+  {
+    "id": 3582,
+    "slug": "3582-find-indices-of-stable-mountains",
+    "name": "Find Indices Of Stable Mountains",
+    "difficulty": "Easy",
+    "solutionFile": null
+  },
+  {
+    "id": 3606,
+    "slug": "3606-minimum-element-after-replacement-with-digit-sum",
+    "name": "Minimum Element After Replacement With Digit Sum",
+    "difficulty": "Easy",
+    "solutionFile": "minimum-element-after-replacement-with-digit-sum.py"
+  },
+  {
+    "id": 3639,
+    "slug": "3639-zero-array-transformation-i",
+    "name": "Zero Array Transformation I",
+    "difficulty": "Medium",
+    "solutionFile": "zero-array-transformation-i.py"
+  },
+  {
+    "id": 3704,
+    "slug": "3704-count-partitions-with-even-sum-difference",
+    "name": "Count Partitions With Even Sum Difference",
+    "difficulty": "Easy",
+    "solutionFile": "count-partitions-with-even-sum-difference.py"
+  },
+  {
+    "id": 3747,
+    "slug": "3747-maximum-difference-between-adjacent-elements-in-a-circular-array",
+    "name": "Maximum Difference Between Adjacent Elements In A Circular Array",
+    "difficulty": "Easy",
+    "solutionFile": "maximum-difference-between-adjacent-elements-in-a-circular-array.py"
+  },
+  {
+    "id": 3748,
+    "slug": "3748-sort-matrix-by-diagonals",
+    "name": "Sort Matrix By Diagonals",
+    "difficulty": "Medium",
+    "solutionFile": "sort-matrix-by-diagonals.py"
+  },
+  {
+    "id": 3872,
+    "slug": "3872-find-most-frequent-vowel-and-consonant",
+    "name": "Find Most Frequent Vowel And Consonant",
+    "difficulty": "Easy",
+    "solutionFile": "find-most-frequent-vowel-and-consonant.py"
+  }
+]
