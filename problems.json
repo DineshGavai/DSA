@@ -543,7 +543,7 @@
     "slug": "238-product-of-array-except-self",
     "name": "Product Of Array Except Self",
     "difficulty": "Medium",
-    "solutionFile": null
+    "solutionFile": "product-of-array-except-self.py"
   },
   {
     "id": 242,
@@ -1118,6 +1118,13 @@
     "name": "Reformat Date",
     "difficulty": "Easy",
     "solutionFile": "reformat-date.py"
+  },
+  {
+    "id": 1285,
+    "slug": "1285-balance-a-binary-search-tree",
+    "name": "Balance A Binary Search Tree",
+    "difficulty": "Medium",
+    "solutionFile": "balance-a-binary-search-tree.py"
   },
   {
     "id": 1293,
